@@ -1,0 +1,10 @@
+<templateSet group="fastadmin">
+  <template name="fa:field" value="{&#10;    field: '$var0$',&#10;    title: __('$var0$'),&#10;    searchList: {},&#10;    formatter: Table.api.formatter.status,&#10;    fieldAlias: 'status',&#10;    addclass: 'datetimerange',&#10;    custom: {0: 'gray', 1: 'success', 2: 'gray', 3: 'danger'},&#10;    operate: false||'RANGE'||'IN'||'FIND_IN_SET'||'LIKE'||'BETWEEN',&#10;    sortable: true&#10;}" description="fastadmin field" toReformat="true" toShortenFQNames="true">
+    <variable name="var0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_EXPRESSION" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+</templateSet>

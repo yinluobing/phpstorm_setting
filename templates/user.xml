@@ -1,0 +1,30 @@
+<templateSet group="user">
+  <template name="for" value="for ($i$ = 0; $i$ &lt; $var0$; $i$++) {&#10;}" description="for 完整版" toReformat="true" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="foreach ($param$ as $k=&gt;$v){&#10;        $end$        &#10;}" description="foreach 完整版" toReformat="true" toShortenFQNames="true">
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="echo '&lt;pre/&gt;';&#10;print_r($var01$);die;" description="debug 打印输出" toReformat="true" toShortenFQNames="true">
+    <variable name="var01" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="doc" value="/**&#10; * 获取列表&#10; * @url {url}/store/api.{controller}/{action}&#10; * @method GET&#10; * @param integer page 页数&#10; * @param integer pageSize 每页个数&#10; * @return json json {'code':1,'msg':'获取列表成功','data':{}}&#10; */" description="快速生成doc文档" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

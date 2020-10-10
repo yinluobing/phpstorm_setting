@@ -1,0 +1,23 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="yc_" />
+      <item value="yc a" />
+      <item value="ycuser" />
+      <item value="邀请人数" />
+      <item value="当前是否为关联查询" />
+      <item value="$small Y" />
+      <item value="Lang" />
+      <item value="Db::commit();" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
