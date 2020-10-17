@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="sess_vupdc9236n705qfqcfpjip4210" type="PLAIN_TEXT" />
       <mapping pattern="moban" type="PLAIN_TEXT" />
+      <mapping pattern="sess_vupdc9236n705qfqcfpjip4210" type="PLAIN_TEXT" />
       <mapping pattern="my_plugs_files" type="PLAIN_TEXT" />
-      <mapping ext="scssc" type="PLAIN_TEXT" />
-      <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="scssc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
