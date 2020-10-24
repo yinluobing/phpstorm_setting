@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f5063a42-edfa-405c-bea4-1755681a8052" name="douyin.20yg.cn" url="http://douyin.20yg.cn">
+        <fileTransfer host="douyin.20yg.cn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
