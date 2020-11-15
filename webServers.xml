@@ -1,8 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="bf5cdd77-36c8-47dc-aad1-9bb3fb7ff22d" name="dou.20yg.cn" url="http://dou.20yg.cn">
-        <fileTransfer host="dou.20yg.cn" port="21">
+      <webServer id="bf5cdd77-36c8-47dc-aad1-9bb3fb7ff22d" name="dou.20yg.cn" url="http://101.32.202.96">
+        <fileTransfer host="101.32.202.96" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f5063a42-edfa-405c-bea4-1755681a8052" name="douyin.20yg.cn" url="http://douyin.20yg.cn">
+        <fileTransfer host="douyin.20yg.cn" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
