@@ -1,16 +1,1 @@
-<code_scheme name="Default" version="173">
-  <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,a" />
-    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea,span" />
-    <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
-    <option name="HTML_ENFORCE_QUOTES" value="true" />
-  </HTMLCodeStyleSettings>
-  <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-  </PHPCodeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-  </codeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" version="173" />
