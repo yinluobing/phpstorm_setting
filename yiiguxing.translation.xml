@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计划" />
       <item value="yc_" />
       <item value="yc a" />
       <item value="ycuser" />
@@ -16,5 +17,8 @@
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1618480932109" />
   </component>
 </application>
