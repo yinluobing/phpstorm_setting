@@ -22,7 +22,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="doc" value="/**&#10; * 获取列表&#10; * @url {url}/store/api.{controller}/{action}&#10; * @method GET&#10; * @param integer page 页数&#10; * @param integer pageSize 每页个数&#10; * @return json json {'code':1,'msg':'获取列表成功','data':{}}&#10; */" description="快速生成doc文档" toReformat="false" toShortenFQNames="true">
+  <template name="doc" value="/**&#10; * 获取列表&#10; * @url {url}/data/api.{controller}/{action}&#10; * @method GET&#10; * @param integer page 页数&#10; * @param integer limit 每页个数&#10; * @return string json {'code':1,'msg':'获取列表成功','data':{}}&#10; */" description="快速生成doc文档" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
