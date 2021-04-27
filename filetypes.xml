@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="lastId" type="PLAIN_TEXT" />
+      <mapping pattern="my_plugs_files" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
