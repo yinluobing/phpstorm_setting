@@ -3,6 +3,5 @@
     <variable name="VARKIND" expression="jsSuggestDefaultVariableKind(false)" defaultValue="var" alwaysStopAt="false" />
     <variable name="INDEX" expression="jsSuggestIndexName()" defaultValue="" alwaysStopAt="true" />
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
